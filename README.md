@@ -1,2 +1,3 @@
-# classification-of-COVID19-dataset-
+# classification-of-COVID19-dataset
 The dataset which we have used for this report consists of X-ray images and CT images of patients.
+There were 2 types of datasets one for Covid-19 positive patients and one for non-infected persons. The Covid-19 dataset was taken from an open data set available online. There is a metadata file which helped to identify the prognosis of the patients. The dataset composed of 930 images of different views. The normal dataset was taken from Kaggle. It was of patients with no ailment and their x rays were normal. This dataset was composed of 1341 images.  Dataset Links: The dataset for Covid-19 x rays was taken from the link below: •	https://github.com/ieee8023/covid-chestxray-dataset The dataset for normal x rays was taken from the link below: •	https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
